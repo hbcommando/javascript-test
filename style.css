@@ -1,0 +1,40 @@
+h1{
+    font-size: x-large;
+    font-style: italic;
+}
+
+.js-awesome{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    text-align-last: center;
+    font-size: xx-large;
+}
+
+.subway-passengers{
+    font-family: sans-serif;
+    background: rgb(150, 138, 138);
+}
+
+.subway-title{
+    background-color: whitesmoke;
+}
+
+.subway-counter{
+    font-size: 2cm;
+    text-align-last: center;
+    font-style: normal;
+}
+
+.plusone{
+    font-size: 2cm;
+    width: 10cm;
+    color: green;
+    padding: 2%;
+}
+
+.minusone{
+    font-size: 2cm;
+    width: 10cm;
+    color: red;
+    padding: 2%;
+}
